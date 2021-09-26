@@ -21,4 +21,5 @@ df = pd.read_csv("./drive/MyDrive/QReLU/training.1600000.processed.noemoticon.cs
 
 Alternatively, you can just place the file into the local IDE or Colab itself, but particularly with Colab, it may have issues temporarily storing the file. 
 
-Secondly, pull the two .py Acitivation Function files into the local IDE or Google Colab, from there, the code can be ran and mofified.
+Secondly, pull the two .py Acitivation Function files into the local IDE or Google Colab, from there, the code can be ran and modified.
+![image](https://user-images.githubusercontent.com/17029850/134808195-4a995791-00c6-4c69-bb78-94d226bfdd92.png)
